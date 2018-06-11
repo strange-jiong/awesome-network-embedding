@@ -42,7 +42,11 @@ The task is to learn the representations of the vertices from a given network.
 - **DGCNN**
   - An End-to-End Deep Learning Architecture for Graph Classiﬁcation 
   - [[AAAI 2018]](http://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
-  - [[Lua]](https://github.com/muhanzhang/DGCNN) [[Python]](https://github.com/muhanzhang/pytorch_DGCNN)  
+  - [[Lua]](https://github.com/muhanzhang/DGCNN) [[Python]](https://github.com/muhanzhang/pytorch_DGCNN) 
+- **spine**
+  - SPINE: Structural Identity Preserved Inductive Network Embedding
+  - [[paper]](https://arxiv.org/abs/1802.03984)
+  - [[python]](https://github.com/lemmonation/spine)
 - **structure2vec**
   - Discriminative Embeddings of Latent Variable Models for Structured Data 
   - [[Arxiv]](https://arxiv.org/abs/1603.05629)
